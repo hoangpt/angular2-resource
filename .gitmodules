@@ -1,0 +1,9 @@
+[submodule "projects/haconglinh_house-angular2"]
+	path = projects/haconglinh_house-angular2
+	url = https://github.com/haconglinh1990/house-angular2.git
+[submodule "education/timjacobi_angular2-education"]
+	path = education/timjacobi_angular2-education
+	url = https://github.com/timjacobi/angular2-education.git
+[submodule "education/ngclass_awesome-angular2"]
+	path = education/ngclass_awesome-angular2
+	url = https://github.com/AngularClass/awesome-angular2
