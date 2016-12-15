@@ -7,3 +7,6 @@
 [submodule "education/ngclass_awesome-angular2"]
 	path = education/ngclass_awesome-angular2
 	url = https://github.com/AngularClass/awesome-angular2
+[submodule "projects/linhho-len.vintage"]
+	path = projects/linhho-len.vintage
+	url = https://github.com/linhho/lenvintage_ng2.git
